@@ -1,1 +1,1 @@
-# MachineLearning-Study
+# Machine-Learning-Study
