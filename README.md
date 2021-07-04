@@ -1,4 +1,5 @@
 # Machine-Learning-Study
+Machine Learning Assignments Repository
 
 ### 📝 Assignments
 | **Weeks** | **Contents** |
