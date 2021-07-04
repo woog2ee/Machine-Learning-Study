@@ -1,7 +1,6 @@
 # Machine-Learning-Study
 
 ### 📝 Assignments
-<hr>
 | **Weeks** | **Contents** |
 |:--------:|:--------:|
 | 01 | Python Tutorial |
@@ -17,5 +16,4 @@
 | 11 | Principal Component Analysis |
 
 ### ✅ Reference
-<hr>
 2021-01 Machine Learning Class in CAU
